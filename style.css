@@ -23,3 +23,13 @@ p {
 p+p {
   margin: 1rem 0;
 }
+
+h2{
+  text-align: center;
+  padding: 1rem;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+}
